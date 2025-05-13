@@ -6,7 +6,7 @@
 - 1 de Produção ![Main](https://img.shields.io/badge/Branch-Main-brightgreen)
 - 1 de Teste ![Master](https://img.shields.io/badge/Branch-Master-blue)
 - 2 de Prototipação
-  - Frontend (Victor e Lucas) ![Frontend](https://img.shields.io/badge/Branch-Frontend-orange)
+  - Frontend (Victor) ![Frontend](https://img.shields.io/badge/Branch-Frontend-orange)
   - Backend (Carol e Eddie) ![Backend](https://img.shields.io/badge/Branch-Backend-red)
 
 **Instruções:**
